@@ -1,6 +1,5 @@
 package one.digitalinnovation.personapi.dto.request;
 
-import com.sun.istack.NotNull;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
